@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "20240001_20230787_evaluacion_firebase",
+    "slug": "20240001_20230787_evaluacion_firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash-image-20240001-20230787.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-image-20240001-20230787.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
